@@ -1,1 +1,1 @@
-NLP to generate stratigraphy column from Geology reports 
+NLP to generate stratigraphy column from Geology reports. 
